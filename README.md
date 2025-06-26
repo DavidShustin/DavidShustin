@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Flask, RestfulAPI's, and SQL**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/david-shustin-51948434b/](https://www.linkedin.com/in/david-shustin-51948434b/)
+- 👨‍💻 All of my projects are available at [https://github.com/DavidShustin](https://github.com/DavidShustin)
 
 - 📫 How to reach me **shustind23@gmail.com**
 
